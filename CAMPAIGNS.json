@@ -1,0 +1,44 @@
+{
+  "ebeey": {
+    "campaign_name": "Launch_Ebeey:_The_Future_of_AI-Driven_Ebook_Architecture",
+    "google_ads": {
+      "headlines": [
+        "Master Ebeey: The Future of AI-Driven Ebook Architecture",
+        "Sovereign AI for Aussies",
+        "2026 KDP Secrets"
+      ],
+      "description": "Professional ebook creation and formatting agent for Amazon KDP 2026 standards."
+    },
+    "meta_ads": {
+      "primary_text": "\ud83c\udde6\ud83c\uddfa Stop outsourcing your intelligence. Mastering KDP 2026 with MCP Automation",
+      "cta": "Download Now"
+    },
+    "keywords": [
+      "AI Ebook",
+      "KDP 2026",
+      "MCP Automation"
+    ]
+  },
+  "sovereign_architect": {
+    "campaign_name": "Launch_The_Sovereign_Architect:_Building_Aussie_AI_Infrastructure",
+    "google_ads": {
+      "headlines": [
+        "Master The Sovereign Architect: Building Aussie AI Infrastructure",
+        "Sovereign AI for Aussies",
+        "2026 KDP Secrets"
+      ],
+      "description": "Discover the blueprint for building and managing sovereign AI infrastructure on Australian"
+    },
+    "meta_ads": {
+      "primary_text": "\ud83c\udde6\ud83c\uddfa Stop outsourcing your intelligence. A Guide to Localized AI Nodes and Data Privacy in Australia",
+      "cta": "Download Now"
+    },
+    "keywords": [
+      "Sovereign AI",
+      "Australia AI",
+      "Data Privacy",
+      "AI Infrastructure",
+      "Hostinger MCP"
+    ]
+  }
+}
