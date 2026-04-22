@@ -20,3 +20,7 @@
 - **Status:** Initial Inventory Logged (10 Titles)
 - **Distribution Sync:** Sovereign Love (Direct Download LIVE)
 - **Distribution Sync:** Love in the Paddock (Direct Download LIVE)
+## Global Upgrade Log (OpenAI v3.0 - 2026-04-22)
+- **Engine Upgrade:** All 12 covers re-generated via DALL-E 3.
+- **Wave 3 Advance:** Covers generated for all 10 romance titles.
+- **New Launch:** Industry Collection Box Set is LIVE.
