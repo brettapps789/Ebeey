@@ -1,0 +1,26 @@
+[
+  {
+    "platform": "Medium",
+    "title": "Why Every Australian Business Needs a Sovereign AI Workforce",
+    "hook": "In 2026, data residency isn't just a checkbox; it's a competitive advantage.",
+    "content": "Explaining the transition from global hyper-scalers to localized Aussie Nodes..."
+  },
+  {
+    "platform": "Substack",
+    "title": "The Digital Heartbeat: Mixing Romance and Code in the Outback",
+    "hook": "How we architected the Sovereign Romance collection.",
+    "content": "A deep dive into the creative logic behind \"Sovereign Love\" and \"Love in the Paddock\"..."
+  },
+  {
+    "platform": "LinkedIn",
+    "title": "The Legal Moat: Mastering the Aussie AI Act 2026",
+    "hook": "Regulation is the new commercial advantage for the Sovereign Architect.",
+    "content": "Breakdown of compliance, IP rights, and liability for the modern CEO..."
+  },
+  {
+    "platform": "Dev.to",
+    "title": "Building a 15-Agent Multi-MCP Workforce via Gemini 2.0 Ultra",
+    "hook": "Technical architecture of the Ebeey pipeline.",
+    "content": "Source control via GitHub MCP, database sharding via Sheets, and live storefronts via Horizons..."
+  }
+]
