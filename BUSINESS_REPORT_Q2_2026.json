@@ -1,0 +1,28 @@
+{
+  "projections": {
+    "currency": "AUD",
+    "total_titles": 5,
+    "price_per_unit": 9.99,
+    "projected_gross": 49950.0,
+    "projected_net_royalty": 34965.0,
+    "status": "Commercial Alpha"
+  },
+  "plan": {
+    "entity": "Sovereign Aussie AI Workforce",
+    "vision": "Establish Sovereign Aussie AI Workforce as the premier technical resource for localized AI in Australia.",
+    "monetization": "Direct sales via Horizons Storefront + KDP Global Distribution",
+    "compliance": "Aussie AI Act 2026 Verified"
+  },
+  "status": {
+    "active_projects": [
+      "Ebeey",
+      "Sovereign-Architect",
+      "Great-Aussie-Prompt",
+      "Pipeline-Down-Under",
+      "The-Aussie-AI-Taskmaster",
+      "Secure-Borders-Open-Minds"
+    ],
+    "completion_percentage": 100,
+    "infrastructure": "Hostinger/Horizons Verified"
+  }
+}
