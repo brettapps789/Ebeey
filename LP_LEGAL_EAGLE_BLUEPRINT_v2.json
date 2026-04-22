@@ -1,0 +1,40 @@
+{
+  "page_id": "lp_the_legal_",
+  "sections": [
+    {
+      "type": "Hero",
+      "title": "The Legal Eagle: Navigating the 2026 Aussie AI Act",
+      "cta": "Get Early Access"
+    },
+    {
+      "type": "Features",
+      "items": [
+        "Sovereign Data",
+        "2026 Compliance",
+        "Local Hosting"
+      ]
+    },
+    {
+      "type": "InstagramFeed",
+      "handle": "@SovereignAussieAI",
+      "count": 6
+    },
+    {
+      "type": "SocialProof",
+      "title": "What Aussie Architects are Saying"
+    },
+    {
+      "type": "Pricing",
+      "price": "9.99",
+      "currency": "AUD"
+    },
+    {
+      "type": "Footer",
+      "compliance": "Aussie AI Act 2026 Verified"
+    }
+  ],
+  "seo": {
+    "title": "Buy The Legal Eagle: Navigating the 2026 Aussie AI Act - Sovereign Aussie AI",
+    "meta_description": "The definitive survival guide for Australian businesses. Master the complexities of the historic 2026 Aussie AI Act, ensuring your autonomous workforce remains "
+  }
+}
