@@ -1,0 +1,15 @@
+{
+  "tax": {
+    "gross_revenue": 49950.0,
+    "net_revenue": 45409.09,
+    "gst_payable": 4540.91,
+    "currency": "AUD"
+  },
+  "pl": {
+    "total_revenue": 39965.0,
+    "total_expenses": 4950.0,
+    "net_profit": 35015.0,
+    "margin": "87.61%",
+    "tax_jurisdiction": "Australia"
+  }
+}
