@@ -7,3 +7,7 @@
 - **New Listing:** Ebeey (Live)
 - **New Listing:** The Sovereign Architect (Live)
 - **Endpoint:** /shop
+## Premium Launch Update (2026-04-21)
+- **New Offer:** Complete 5-Book Box Set (Live)
+- **Target Price:** 4.99 AUD
+- **Commercial Logic:** High-margin bundle active.
