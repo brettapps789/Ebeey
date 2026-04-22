@@ -15,3 +15,6 @@
 - **Engine:** Gemini 2.0 Pro (Elite Architect)
 - **Residencies:** Sydney/Melbourne Multi-Cluster active.
 - **RAG:** Confidence Scoring (v2.0) implemented.
+## Database Sync (2026-04-21)
+- **Master Sheet ID:** 1thF_5soAggUfUivXJuoHJtT9YvfWC3FHl8JwvV0MlhI
+- **Status:** Initial Inventory Logged (10 Titles)
