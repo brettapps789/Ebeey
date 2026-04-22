@@ -1,0 +1,36 @@
+{
+  "product_blueprint": {
+    "specification": {
+      "sku": "SOV-PH-A R-2026",
+      "materials": [
+        "Brushed Titanium",
+        "Graphene-infused Composite"
+      ],
+      "dimensions": "Variable based on use-case",
+      "manufacturing": "Local Sydney Micro-Factory",
+      "compliance": "Aussie AI Act 2026 / ISO-9001"
+    },
+    "financials": {
+      "unit_cost": 45.0,
+      "shipping_au": 12.5,
+      "total_estimated": 57.5,
+      "currency": "AUD"
+    },
+    "sustainability": {
+      "score": "A+",
+      "materials_audit": "100% recyclable titanium",
+      "carbon_footprint": "Net Zero (Sovereign Offset Verified)"
+    }
+  },
+  "instagram_campaign": {
+    "caption": "\ud83d\ude80 Sovereign intelligence has a new face. Introducing Aussie Node Hardware Kit. Architected in Australia, for Australians. \ud83c\udde6\ud83c\uddfa #SovereignAI #AussieTech #KDP2026",
+    "hashtags": [
+      "#SovereignAussie",
+      "#DigitalSovereignty",
+      "#AussieCreators",
+      "#AIRevolution"
+    ],
+    "image_spec": "Optimized version of: A hyper-realistic 3D product photo of a sleek, industrial server node sitting on deep red sand. The chassis is made of obsidian glass and glowing golden titanium. Australian flora reflected in the surface. Style: Luxury tech photography.",
+    "reels_script": "Hook: Stop outsourcing your brain. \nVisual: 3D render of Aussie Node Hardware Kit. \nCall to Action: Link in bio."
+  }
+}
