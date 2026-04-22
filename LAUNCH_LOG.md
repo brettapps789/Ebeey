@@ -19,3 +19,4 @@
 - **Master Sheet ID:** 1thF_5soAggUfUivXJuoHJtT9YvfWC3FHl8JwvV0MlhI
 - **Status:** Initial Inventory Logged (10 Titles)
 - **Distribution Sync:** Sovereign Love (Direct Download LIVE)
+- **Distribution Sync:** Love in the Paddock (Direct Download LIVE)
