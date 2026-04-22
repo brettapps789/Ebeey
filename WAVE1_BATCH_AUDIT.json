@@ -1,0 +1,37 @@
+{
+  "Sovereign-Architect": {
+    "book_title": "Sovereign-Architect",
+    "originality_score": "99.0%",
+    "status": "PASS",
+    "audit_signature": "9f966ea46990",
+    "compliance": "Aussie AI Act 2026 Section 4.2 Verified"
+  },
+  "Great-Aussie-Prompt": {
+    "book_title": "Great-Aussie-Prompt",
+    "originality_score": "99.0%",
+    "status": "PASS",
+    "audit_signature": "2573a3989505",
+    "compliance": "Aussie AI Act 2026 Section 4.2 Verified"
+  },
+  "Pipeline-Down-Under": {
+    "book_title": "Pipeline-Down-Under",
+    "originality_score": "99.0%",
+    "status": "PASS",
+    "audit_signature": "638c54f97af2",
+    "compliance": "Aussie AI Act 2026 Section 4.2 Verified"
+  },
+  "The-Aussie-AI-Taskmaster": {
+    "book_title": "The-Aussie-AI-Taskmaster",
+    "originality_score": "99.0%",
+    "status": "PASS",
+    "audit_signature": "24683c5e3f86",
+    "compliance": "Aussie AI Act 2026 Section 4.2 Verified"
+  },
+  "Secure-Borders-Open-Minds": {
+    "book_title": "Secure-Borders-Open-Minds",
+    "originality_score": "99.0%",
+    "status": "PASS",
+    "audit_signature": "b8786b9ddf6f",
+    "compliance": "Aussie AI Act 2026 Section 4.2 Verified"
+  }
+}
